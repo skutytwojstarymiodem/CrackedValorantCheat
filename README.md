@@ -3,14 +3,14 @@ slotted valorant cheat chaos.cc cracked
 chaos.cc
 
 Features:
-[AIM]
+AIM
 -Memory aimbot
 -Silent aimbot (Tick manipulation)
 -Smoothing
 -Fov
 -Draw fov
 
-[VISUALS]
+VISUALS
 -Player box
 -Player filled box
 -Player health
@@ -21,6 +21,6 @@ Features:
 -Stream proof
 -Anti screenshot
 
-[MISC]
+MISC
 -Recoil crosshair
 -Instant crouch exploit
